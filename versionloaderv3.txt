@@ -1,1 +1,1 @@
-1.3|Info|Update expired.
+1.0|Update Required|Please update your loader.
