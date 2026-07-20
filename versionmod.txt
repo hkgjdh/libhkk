@@ -1,1 +1,1 @@
-1.3|Server|Server under maintenance.
+1.0|Server|Server under maintenance.
