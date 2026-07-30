@@ -1,1 +1,1 @@
-1.0|Server|Server under maintenance.
+1.1|Info|Mod Server under maintenance.
