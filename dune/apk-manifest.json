@@ -4,5 +4,7 @@
   "gameVersion": "BGMI 4.6",
   "versionName": "1.0.2",
   "mode": "Kernel",
-  "support": "https://t.me/DuneCheats"
+  "support": "https://t.me/DuneCheats",
+  "signingCertificateSha256": "063a9fcb57aa9e3e9e58d08ed1722e493d28157a8d9f934d8c484d77b0181bef",
+  "signingCertificate": "signing.cer"
 }
