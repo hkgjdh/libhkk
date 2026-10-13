@@ -1,0 +1,664 @@
+{
+  "version": 1,
+  "source": "STAR KERNEL 1.0.0 beta public driver catalog",
+  "original_repository": "leomessilibra45/loader-files",
+  "files": [
+    {
+      "group": "Bing",
+      "name": "4.14.117.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.14.117.sh",
+      "git_sha": "5b1cb20a136191641f1bdb631784636e698032d4",
+      "size": 32001,
+      "type": "sh",
+      "sha256": "8af7e018f6eb4ad56b0f1364ca3391f7d6f1a1253ff8ba01bf53e9813990ac2a"
+    },
+    {
+      "group": "Bing",
+      "name": "4.14.141.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.14.141.sh",
+      "git_sha": "9b43af7ae5361fff8fe9b9f961574449f1aa314d",
+      "size": 31330,
+      "type": "sh",
+      "sha256": "498cd691a614213f3c5bb1de5a881cfb310b4c3b4ab37a1b88e4b76771f46b24"
+    },
+    {
+      "group": "Bing",
+      "name": "4.14.141b.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.14.141b.sh",
+      "git_sha": "548d22d73694a5cc7d162de4eb583bab008592d7",
+      "size": 31306,
+      "type": "sh",
+      "sha256": "a588ed371f9bf3e873f387b945144b9ec67c6b5f1eeceb36ec1613a933311d4e"
+    },
+    {
+      "group": "Bing",
+      "name": "4.14.180.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.14.180.sh",
+      "git_sha": "f5330035925329c0de0b6ca713c1367117e4f4e3",
+      "size": 31266,
+      "type": "sh",
+      "sha256": "4f3ca711bcb4d170c66a1fafbfe9c1b8e63923623993fac05623ec5ea5f9886e"
+    },
+    {
+      "group": "Bing",
+      "name": "4.14.180b.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.14.180b.sh",
+      "git_sha": "cb80aec4b8cf9aa189661dc249659a885f324e9e",
+      "size": 32208,
+      "type": "sh",
+      "sha256": "cbe8393d918c90d62968a007966ae4d70c8576691ef0ea8bd92d384bda78d6c4"
+    },
+    {
+      "group": "Bing",
+      "name": "4.14.186.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.14.186.sh",
+      "git_sha": "2fd0b53d3d45497f7d92c2c07b138a6bdac8f103",
+      "size": 31648,
+      "type": "sh",
+      "sha256": "f678555d46b820103dcff717643608b40306a8114c8c6cd93814a81aea18f82a"
+    },
+    {
+      "group": "Bing",
+      "name": "4.14.186b.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.14.186b.sh",
+      "git_sha": "9ec9f2a0dac56f501788764208058a69096e6bda",
+      "size": 32665,
+      "type": "sh",
+      "sha256": "c20059b782995a50d30f0a6b73192aede431b162f02eba166eb88d68ea7c8680"
+    },
+    {
+      "group": "Bing",
+      "name": "4.14.186c.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.14.186c.sh",
+      "git_sha": "5127057cf700da8639b6c54f46d0fd9de7e672ea",
+      "size": 32048,
+      "type": "sh",
+      "sha256": "771b047357604d561775f54c4180931958ccc46c06f77363e94cc1085eb033d3"
+    },
+    {
+      "group": "Bing",
+      "name": "4.19.109.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.19.109.sh",
+      "git_sha": "01fe4ee1e079264755b1edfbe533aafa3695a480",
+      "size": 31895,
+      "type": "sh",
+      "sha256": "79244fe4c895572d5b37aaca2a35d6c29672f3959b953d13b3c78ac1bb1301e2"
+    },
+    {
+      "group": "Bing",
+      "name": "4.19.113.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.19.113.sh",
+      "git_sha": "d3245efcdd340ec193087721b177b9b1db2d0cdf",
+      "size": 31776,
+      "type": "sh",
+      "sha256": "c1d771d9a382915c827103f686c019b4a21ef1b4b0855d69ff573932d3560773"
+    },
+    {
+      "group": "Bing",
+      "name": "4.19.113b.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.19.113b.sh",
+      "git_sha": "41933166b58683fb0068fead1723e4abf4e54a9f",
+      "size": 31906,
+      "type": "sh",
+      "sha256": "e02b055e4680ee3a70f1abb90b39de66a8747b1220ff1ce2f241c6a6324d089e"
+    },
+    {
+      "group": "Bing",
+      "name": "4.19.157-ColorOS.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.19.157-ColorOS.sh",
+      "git_sha": "558b5249be6df41700f4d6104b38537415107a79",
+      "size": 31832,
+      "type": "sh",
+      "sha256": "7366cfe7382ed6d8c6f7573e9532e98b74d2767504f7da9d1a44d14232216f3e"
+    },
+    {
+      "group": "Bing",
+      "name": "4.19.157.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.19.157.sh",
+      "git_sha": "c490524df3aa2cc7175274b4a2ed3706c2f6a475",
+      "size": 31954,
+      "type": "sh",
+      "sha256": "3d9fadb5400fb2569ce79a7ce6f03430b18fcdd585a08168fdfe945fd650d839"
+    },
+    {
+      "group": "Bing",
+      "name": "4.19.157b.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.19.157b.sh",
+      "git_sha": "d904abfdd6c22dfef1b5521fbc947f071f30f08d",
+      "size": 32118,
+      "type": "sh",
+      "sha256": "4d0e19ae05ebd5e914700ced4adf9c179b5b607c81ec118572d6750021a884bb"
+    },
+    {
+      "group": "Bing",
+      "name": "4.19.191-ColorOS.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.19.191-ColorOS.sh",
+      "git_sha": "6e5ee703bb2c59406b82c8b087aa82b7d8aa2884",
+      "size": 31838,
+      "type": "sh",
+      "sha256": "0aa13886111a7bb9c8dc5013fff3a46ebc37790427ee57c790a5c57248304771"
+    },
+    {
+      "group": "Bing",
+      "name": "4.19.191.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.19.191.sh",
+      "git_sha": "61e611cded9d9bf549dcaa12ccaf8a615d9ff31c",
+      "size": 32998,
+      "type": "sh",
+      "sha256": "2c65a5ebbf6a2d4f28e7ee495ca9705603db5e836c840ce6a0e676ba2a053dbe"
+    },
+    {
+      "group": "Bing",
+      "name": "4.19.191b-ColorOS.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.19.191b-ColorOS.sh",
+      "git_sha": "2841a90c90ca05e67ba469860d8ca9d989553b10",
+      "size": 32121,
+      "type": "sh",
+      "sha256": "df8c011d183f156f23d5a5cbef67ee8e389f838b8a66646a4d4646f14cc01469"
+    },
+    {
+      "group": "Bing",
+      "name": "4.19.81.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.19.81.sh",
+      "git_sha": "34de2bb34e2854efb892713718a561062bdc2062",
+      "size": 30641,
+      "type": "sh",
+      "sha256": "7fdca5a333e9f8befa03a8b03f0053d3fdc527c1fd719f50ce6854be4dcb6e38"
+    },
+    {
+      "group": "Bing",
+      "name": "4.9.186.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/4.9.186.sh",
+      "git_sha": "544b06f14f9db16cf676c68c23f92ba97053bf6c",
+      "size": 30837,
+      "type": "sh",
+      "sha256": "6ccb2a7db7310be697298f05218cb61c9c895c6deadd400719c88a3f4185c4c5"
+    },
+    {
+      "group": "Bing",
+      "name": "5.10.136.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/5.10.136.sh",
+      "git_sha": "d924a33fb60d306762f1102dc679b1622aa8840b",
+      "size": 33871,
+      "type": "sh",
+      "sha256": "c5ca2dce14284ac7dfd6b6d18af2027f128628643a16387bd5f80b0236ca2d30"
+    },
+    {
+      "group": "Bing",
+      "name": "5.10.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/5.10.sh",
+      "git_sha": "8b059d110f5911d93951cb5a2463f21f45f69553",
+      "size": 37070,
+      "type": "sh",
+      "sha256": "a2c90bd946cf601de6b6bf4a91fa51233a2975a92a9da5cb30e5aedc6cbd7b72"
+    },
+    {
+      "group": "Bing",
+      "name": "5.15.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/5.15.sh",
+      "git_sha": "11c5d9bead21263022672ae6147940a99222da31",
+      "size": 57953,
+      "type": "sh",
+      "sha256": "5da9e02e549452cbd237bb4b244e38e0fe267b523bacee8b2b7934b96052e40c"
+    },
+    {
+      "group": "Bing",
+      "name": "5.4.147.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/5.4.147.sh",
+      "git_sha": "bea8ab30b0d311690ed8310d3ccd949526505b1b",
+      "size": 34766,
+      "type": "sh",
+      "sha256": "9b7d36791620f3f364d7569bea4df3f4c066d448e035e54cc44afbacd7dbcb57"
+    },
+    {
+      "group": "Bing",
+      "name": "5.4.191oneplus.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/5.4.191oneplus.sh",
+      "git_sha": "8214f9712d4ced34b35cf697a21877f7121ec27b",
+      "size": 34826,
+      "type": "sh",
+      "sha256": "edfc3ecf7449a589cb04f13ea4262ee7bacf906cf7b62e7bc9b7855ac66c6cb2"
+    },
+    {
+      "group": "Bing",
+      "name": "5.4.210-ColorOS.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/5.4.210-ColorOS.sh",
+      "git_sha": "1fb947d6e8f801adcdb95a6b3d52ba1320d7c7f1",
+      "size": 35690,
+      "type": "sh",
+      "sha256": "e8335d2031a4f34e09b475f10a67aa8936edf53c0917b0bd4c9343724e3751c8"
+    },
+    {
+      "group": "Bing",
+      "name": "5.4.233-ColorOS.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/5.4.233-ColorOS.sh",
+      "git_sha": "410f526867c9944429c2bab334f20b889fbde1b2",
+      "size": 34789,
+      "type": "sh",
+      "sha256": "2f2707fba06adf6084ccf8dff201efb3033927e4a638e8c8cf33eeb2e5af888e"
+    },
+    {
+      "group": "Bing",
+      "name": "5.4.233.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/5.4.233.sh",
+      "git_sha": "4ee808181e95dbdda68b56b558e3036bad2d4644",
+      "size": 38807,
+      "type": "sh",
+      "sha256": "5eb37c21df61f9aa5091ea0e8ad28bbe52c77ee28c497f124849b193db7ca172"
+    },
+    {
+      "group": "Bing",
+      "name": "5.4.233oneplus.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/5.4.233oneplus.sh",
+      "git_sha": "e475b0e8d53c203d5dbe5176667f1e5dca763a59",
+      "size": 35549,
+      "type": "sh",
+      "sha256": "acd7f854e62681b5115791abdbc59e7196935098cd975c73f112cd5e2df9627e"
+    },
+    {
+      "group": "Bing",
+      "name": "5.4.61.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/5.4.61.sh",
+      "git_sha": "2a1fb7ce311492f76678b22ccf59b40eceac556d",
+      "size": 34680,
+      "type": "sh",
+      "sha256": "1d283d982b1210d851721100453e6c6150396344180dc706cd69554fec98dea9"
+    },
+    {
+      "group": "Bing",
+      "name": "5.4.86.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/5.4.86.sh",
+      "git_sha": "d7f688bb7802e4d700de9a680f172d265c5a1247",
+      "size": 34686,
+      "type": "sh",
+      "sha256": "4eb0986becfc598cea78056a709ec2de29711ebf18d8bd8faadf7c8267690e1c"
+    },
+    {
+      "group": "Bing",
+      "name": "6.1.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/6.1.sh",
+      "git_sha": "a855dc916fe0100fe3c2d9160936f096c87d15e9",
+      "size": 62191,
+      "type": "sh",
+      "sha256": "e10b6224c58b2d2115382b511437770b750e2ddcda6e3422a0a6fa3b55faeb08"
+    },
+    {
+      "group": "Bing",
+      "name": "6.12.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/6.12.sh",
+      "git_sha": "e5822b493e6a7a15d55096e82dde1baac672c529",
+      "size": 36163,
+      "type": "sh",
+      "sha256": "f73394861fe610a29e66d51c847e6ab2097c743dfb8680ba51555408432331ff"
+    },
+    {
+      "group": "Bing",
+      "name": "6.6.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/6.6.sh",
+      "git_sha": "74cdad46f52e199438bbf03302157cc5380679d2",
+      "size": 36119,
+      "type": "sh",
+      "sha256": "5fba23cdbe3cfea3fd0f648e6efbfb3bdeb9a1b569f1b21525ad20eabb91907b"
+    },
+    {
+      "group": "Bing",
+      "name": "oppo4.19.81.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/oppo4.19.81.sh",
+      "git_sha": "6bc9c997fbb4e5cc134cbaf314cbab297ce39ca8",
+      "size": 31716,
+      "type": "sh",
+      "sha256": "0c3b215a9c0b985ba0c223cf7d814e85930c8531e05ad0e9c885db40df1e13a2"
+    },
+    {
+      "group": "Bing",
+      "name": "oppoa92s4.14.186.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Bing/oppoa92s4.14.186.sh",
+      "git_sha": "81d6d84ae4d02045cb543a6077bd70c808ff92ef",
+      "size": 32394,
+      "type": "sh",
+      "sha256": "f2b0f5975955983f67c4af8261bc123b8ce234d961a9aab0735b1f552cd5c8e9"
+    },
+    {
+      "group": "Paradise",
+      "name": "5.10-Pixel.ko.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Paradise/5.10-Pixel.ko.sh",
+      "git_sha": "77b056a9beb22066f69706f569c386d2263209ac",
+      "size": 247414,
+      "type": "sh",
+      "sha256": "147eef40a4958c4a1534fc41232d734c0119953848524d17c59252c526fe2958"
+    },
+    {
+      "group": "Paradise",
+      "name": "5.10.ko.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Paradise/5.10.ko.sh",
+      "git_sha": "4731b28a2730b93bb884cb62c923444724e75efe",
+      "size": 430476,
+      "type": "sh",
+      "sha256": "10d9002963a70dc5363482aadab42026f9a8aad60c18a5c34e8ca47739d6cf0d"
+    },
+    {
+      "group": "Paradise",
+      "name": "5.15-Pixel.ko.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Paradise/5.15-Pixel.ko.sh",
+      "git_sha": "47b5599efe21b8dddbc8c5106278188d5a206fac",
+      "size": 365309,
+      "type": "sh",
+      "sha256": "8e2467f6bdbff282072180d6d736667412c64b93d60f305e081d994eba694654"
+    },
+    {
+      "group": "Paradise",
+      "name": "5.15.ko.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Paradise/5.15.ko.sh",
+      "git_sha": "6af35983a82e28632507454694b701253b7ef2d6",
+      "size": 465426,
+      "type": "sh",
+      "sha256": "16415ef906ad55a77d23c65d9805e86c39e749cc7ba9ddbc4c3d0d8ee5f97d4b"
+    },
+    {
+      "group": "Paradise",
+      "name": "6.1.ko.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Paradise/6.1.ko.sh",
+      "git_sha": "db9682a3c610d21db5b45aa5023b073602573946",
+      "size": 462872,
+      "type": "sh",
+      "sha256": "6683e136b5c30ba1aeb437f03e8443becc84ae75acb45f1b559be78c4430fde1"
+    },
+    {
+      "group": "Paradise",
+      "name": "6.12.ko.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Paradise/6.12.ko.sh",
+      "git_sha": "4cf141cad40f629a2e9ef164a9dba0c31989f6f5",
+      "size": 428291,
+      "type": "sh",
+      "sha256": "d22dc7db7db688a221d4cb51c68c1508ce2c9f72334e4438c51b4b799b10b8e5"
+    },
+    {
+      "group": "Paradise",
+      "name": "6.6.ko.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Paradise/6.6.ko.sh",
+      "git_sha": "55250091fba337574b4369be4f71825f4a42234d",
+      "size": 373155,
+      "type": "sh",
+      "sha256": "3ab7f13101b64a93b54a484afbc68f794564bd9889e47e620dd114242dda8e3f"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "4.14.117.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/4.14.117.sh",
+      "git_sha": "0be17100ff0243f36c1be99f289500c4a5dbd4c1",
+      "size": 230435,
+      "type": "sh",
+      "sha256": "ea3d271cda4aa97935c3957a5ba99e99939f9bda072056ef8bbd2c2a12324ce9"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "4.14.180.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/4.14.180.sh",
+      "git_sha": "9f0bb409a07e9214a5e478c6e836efc54a004cfe",
+      "size": 232165,
+      "type": "sh",
+      "sha256": "6ad8a88bd7b57cf8c3970cb58202ca3dcf70f290ecbb2fe4f953fbc3b6634a0a"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "4.14.186.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/4.14.186.sh",
+      "git_sha": "a4bc433ee3a03c07f4c07c2774a00d619aac0111",
+      "size": 230013,
+      "type": "sh",
+      "sha256": "716b5480db987ee5489d1cc0b9157ae2a96cfdb0b23b0c4841cf0a6b4bd8b936"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "4.19.113.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/4.19.113.sh",
+      "git_sha": "2f3e1f4ae5a47bfdd328b62bb75dcdcc6b56676d",
+      "size": 243695,
+      "type": "sh",
+      "sha256": "c81d682e97741becc5b225ffc42e02fc4f2e53da2780a42320ffb0960014e83c"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "4.19.157-oneplus8t.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/4.19.157-oneplus8t.sh",
+      "git_sha": "006895d254695f2b0530912e79686698b8009653",
+      "size": 248278,
+      "type": "sh",
+      "sha256": "15d12493883ec1a71c73fa1f6235095178f48d9a7b0595307a9fc5896f273af3"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "4.19.157.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/4.19.157.sh",
+      "git_sha": "ee62b725356708c44de0a58b7fa2085b4edb7370",
+      "size": 248947,
+      "type": "sh",
+      "sha256": "dcc935ba3ab2569137ba0d561409569accf204afe036e673faae142ca0d8abe2"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "4.19.191-ColorOS.ko.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/4.19.191-ColorOS.ko.sh",
+      "git_sha": "2129705b6d04c1b84980d88f43e587caa31e6c8d",
+      "size": 267354,
+      "type": "sh",
+      "sha256": "33276304ee5ef4006efbc788f5536eff2ca04813ed3f8061dcd68d7dd18a8a7b"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "4.19.81.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/4.19.81.sh",
+      "git_sha": "8b6ba535dd7fa43938bb97d605c28e9245e31d8c",
+      "size": 238033,
+      "type": "sh",
+      "sha256": "d7b05403a1a992a9c0cb8ba6baaf076d7b3ed9dce4429a26d15af9b1572f5418"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "4.9.186.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/4.9.186.sh",
+      "git_sha": "03d246da50b644d0382ac6563e9268c703953cef",
+      "size": 281595,
+      "type": "sh",
+      "sha256": "80459a9e9065036f7c1322b06336d69e9f73444a324ccbd6ace01c8b0dba6b38"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "5.10.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/5.10.sh",
+      "git_sha": "beed68de55151b49bb9393bd4767ee3e2ea50972",
+      "size": 527890,
+      "type": "sh",
+      "sha256": "f3c6df990cab4c57f537908bd4cdd4d6ba5213d8be1f2d8a1d5aaec86d932123"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "5.15.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/5.15.sh",
+      "git_sha": "853b9b7cad5afb2f801e049c6035a18c96d008cf",
+      "size": 537896,
+      "type": "sh",
+      "sha256": "4fd3c68fea3a34639d11f67d4d2cd7f7fea6ad22c7af1972d184bfb8c07219b9"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "5.4c.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/5.4c.sh",
+      "git_sha": "cce21f3fad2454a1bbede91d2a929a86be7bd413",
+      "size": 412977,
+      "type": "sh",
+      "sha256": "7a0c8024c87a002a6a158c70e2179820c5b4101ce205813cd152c96bc0677c96"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "5.4oppo.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/5.4oppo.sh",
+      "git_sha": "062c08ba927dae86696ef7140ce569e8dc623eb6",
+      "size": 408094,
+      "type": "sh",
+      "sha256": "4cbfe6e5c45949931e72a4215ee7a5ea592a545d753f28357eac3509323bb07d"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "6.1.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/6.1.sh",
+      "git_sha": "bd52ed6bf3765e5f26d4b1a95e24a6681ce82a88",
+      "size": 530374,
+      "type": "sh",
+      "sha256": "68dc06fe4ba633d0e82ebea93853e7a7355b24e317085b9f5e5cc41a302bf146"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "6.6.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/6.6.sh",
+      "git_sha": "23ad2b47eb6ccd2d9cb3be1aea9165ec7a2b0b27",
+      "size": 443680,
+      "type": "sh",
+      "sha256": "ebf5f251b29ccae78c7ea780067c2cd545a09a2f8c2f51cf6bee2e255b9f6bae"
+    },
+    {
+      "group": "RT_DEV",
+      "name": "note12pro.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/RT_DEV/note12pro.sh",
+      "git_sha": "0733f74feb832a34020dc4cfdf20afb1bac547a2",
+      "size": 253932,
+      "type": "sh",
+      "sha256": "7175cbe0ca43fde2ca9d1496564ae06744a6d221df08dd8db884026c58c8c3e8"
+    },
+    {
+      "group": "Tear",
+      "name": "4.14.186.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Tear/4.14.186.sh",
+      "git_sha": "e9055affee94e951e365f3f38eb961b552628fe5",
+      "size": 207,
+      "type": "sh",
+      "sha256": "023c7d066f3a427c10765d4ec9d205489ba5fd5d3edad9a4b02edc1f513c4878"
+    },
+    {
+      "group": "Tear",
+      "name": "4.14.186.ko",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Tear/4.14.186.ko",
+      "git_sha": "63d9fc1ad19aa6ce660ba9b11347cb63271c46ec",
+      "size": 337440,
+      "type": "ko",
+      "sha256": "e1a2e278de950178101ac8b35986774d959be8e6ce271c190cf7669b5b99e16c"
+    },
+    {
+      "group": "Tear",
+      "name": "5.10.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Tear/5.10.sh",
+      "git_sha": "d6ac62f9f4f39befc1dd60217fcd8c9863671b41",
+      "size": 199,
+      "type": "sh",
+      "sha256": "91d5babd51476c4771390a285b026b70325344882495b134447aaf37d8930516"
+    },
+    {
+      "group": "Tear",
+      "name": "5.10.ko",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Tear/5.10.ko",
+      "git_sha": "062d9c3066a835fd193ba9cad9f5858db459f74f",
+      "size": 540712,
+      "type": "ko",
+      "sha256": "b922b3073eb1c0682f05e0024e681028a3b676d53f1c5bf35ef87877c4e6b1e5"
+    },
+    {
+      "group": "Tear",
+      "name": "5.15.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Tear/5.15.sh",
+      "git_sha": "e575ca62a5157dcbaf4c6610254430c0e8765f43",
+      "size": 199,
+      "type": "sh",
+      "sha256": "99bf9efcb483a93a5a878b5c93919e18d64f052c650ebddfb1245959f48d7708"
+    },
+    {
+      "group": "Tear",
+      "name": "5.15.ko",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Tear/5.15.ko",
+      "git_sha": "9f34c2de84db1b98b846c822d388638d03e9e8e1",
+      "size": 667544,
+      "type": "ko",
+      "sha256": "fc7eb71aa35c294e0399343c47d7915cc6a2b0916b694e601c553417578d70dc"
+    },
+    {
+      "group": "Tear",
+      "name": "6.1.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Tear/6.1.sh",
+      "git_sha": "41f0a41e4db5120ba6546896e6e85cd2b39658fd",
+      "size": 197,
+      "type": "sh",
+      "sha256": "507cd0a569c7d8c827f041123ae928167974e4e0b1ae0dd340c7d733e74b6bd3"
+    },
+    {
+      "group": "Tear",
+      "name": "6.1.ko",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Tear/6.1.ko",
+      "git_sha": "eff7e0ee72ad63016c8af8ab2957e2c967ecf483",
+      "size": 38264,
+      "type": "ko",
+      "sha256": "4387e6fce0787e89a8691a862b1c3de6971cb61a146afa749e94e8b374a14036"
+    },
+    {
+      "group": "Tear",
+      "name": "6.12.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Tear/6.12.sh",
+      "git_sha": "7a0e5337606c8b52ca384729a6065f0bccbd5000",
+      "size": 199,
+      "type": "sh",
+      "sha256": "e022b0470d8850b08a9a36a87da8f1021b2268f46a10ee1b94b52bb0fbb4b002"
+    },
+    {
+      "group": "Tear",
+      "name": "6.12.ko",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Tear/6.12.ko",
+      "git_sha": "1f392907fa8d33f28212087fc04b902b750a3ef7",
+      "size": 28880,
+      "type": "ko",
+      "sha256": "654f6750f804375c36c05f3e4d8c35d7369420a9ff500b440d2ffce03a3d4d82"
+    },
+    {
+      "group": "Tear",
+      "name": "6.6.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Tear/6.6.sh",
+      "git_sha": "9673475a8b1589be04b29321cdcfee8d3a95a375",
+      "size": 197,
+      "type": "sh",
+      "sha256": "20b8f0918b97e970263fd77b3c40782da37601e1d3d9ad17e97fdc9e4fdd7b68"
+    },
+    {
+      "group": "Tear",
+      "name": "6.6.ko",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Tear/6.6.ko",
+      "git_sha": "178b1b9bb7a33e54538dc462e6e752ca764a5a7f",
+      "size": 381248,
+      "type": "ko",
+      "sha256": "f4ee4686cd372a75d632d87382307e874e0be9abcb3de6a8d37bf8a91f0fc181"
+    },
+    {
+      "group": "Tear",
+      "name": "6.6fix.sh",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Tear/6.6fix.sh",
+      "git_sha": "dda87f00cad924e0dfa63f79b1fd5b8252b99f30",
+      "size": 203,
+      "type": "sh",
+      "sha256": "7d3cee81345163b22d82587ba4635366df094851b0da2238782195e324988375"
+    },
+    {
+      "group": "Tear",
+      "name": "6.6fix.ko",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/Tear/6.6fix.ko",
+      "git_sha": "bf0bad607ad71d50c2a7a07dc8353bd870380b13",
+      "size": 26104,
+      "type": "ko",
+      "sha256": "972875c6c7bc97572964ef922535f106868ff3a323ea5c4f0dc7ecef810a43c7"
+    },
+    {
+      "group": "KPM",
+      "name": "driver_a.kpm",
+      "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/drivers/KPM/driver_a.kpm",
+      "git_sha": "b65c01fb49544a671ad7325057214b7ee7049ea3",
+      "size": 9752,
+      "type": "kpm",
+      "sha256": "e2f8119af410acc0322418b9d9bfbe40075a61cdbbfa8a7122a95240ff8d7220"
+    }
+  ]
+}
