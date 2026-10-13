@@ -1,8 +1,8 @@
 {
+  "versionCode": 102,
   "status": "Online",
-  "versionCode": 101,
-  "url": "https://raw.githubusercontent.com/hkgjdh/libhkk/main/dune/DuneKernel-debug.apk",
+  "gameVersion": "BGMI 4.6",
+  "versionName": "1.0.2",
   "mode": "Kernel",
-  "versionName": "1.0.1",
-  "gameVersion": "BGMI 4.6"
+  "support": "https://t.me/DuneCheats"
 }
